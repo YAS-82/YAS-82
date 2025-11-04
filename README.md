@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Yas!
 
-<!--
-**YAS-82/YAS-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software Engineer | Python & C++ Enthusiast | Cybersecurity Learner
 
-Here are some ideas to get you started:
+I’m currently studying **Software Engineering** and building my skills to become a **valuable, successful developer** who writes clean, efficient, and meaningful code.  
+My journey is focused on solidifying strong foundations and exploring fields like **networking, security, and backend development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I'm Learning
+- 🐍 Python (daily coding & problem solving)
+- 💻 C++ (LeetCode & algorithm mastery)
+- 🌐 Linux & Networking fundamentals
+- ⚙️ Databases & SQL basics
+
+---
+
+### 🧩 My Coding Practice
+I document my LeetCode solutions here:  
+👉 [LeetCode Repository](https://github.com/Yassin_Azad82/leetcode)
+
+Each problem includes:
+- Problem description  
+- Clean, optimized solution  
+- Notes on what I learned ✨  
+
+---
+
+### 🧠 Current Goals
+- Build strong algorithmic thinking  
+- Improve problem-solving speed  
+- Deep dive into **network & cybersecurity**  
+- Create real-world Python projects  
+
+---
+
+### 🛠️ Languages & Tools
+| Python | C++ | Linux | Git | SQL | VS Code |
+|:------:|:---:|:------:|:---:|:---:|:---:|
+| 🐍 | 💻 | 🐧 | 🔧 | 🗄️ | 🧠 |
+
+---
+
+### ☕ About Me
+I love solving logical puzzles, learning how systems work,  
+and creating tools that make tasks simpler and smarter.  
+Outside coding, I enjoy exploring new tech ideas and sharing what I learn.  
+
+---
+
+### 📫 Reach Me
+💬 You can find me right here on GitHub or soon on my portfolio site (coming soon 👀)
+
+---
+
+> _“Great engineers aren’t born — they’re built, line by line.”_
