@@ -17,7 +17,7 @@ My journey is focused on solidifying strong foundations and exploring fields lik
 
 ### 🧩 My Coding Practice
 I document my LeetCode solutions here:  
-👉 [LeetCode Repository](https://github.com/Yassin_Azad82/leetcode)
+👉 [LeetCode Repository](https://leetcode.com/Yassin_Azad82/leetcode)
 
 Each problem includes:
 - Problem description  
